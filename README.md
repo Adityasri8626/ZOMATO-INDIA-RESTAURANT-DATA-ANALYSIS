@@ -6,7 +6,7 @@ Analyzed **9,500+ restaurant records from Kaggle** using R to uncover customer p
 
 ## 🖼️ Project Workflow  
 
-![Workflow](assets/zomato_workflow.png)  
+![Workflow](Images/P1.png)  
 *Raw Data → Cleaning (R & dplyr) → Feature Engineering → Visualization (ggplot2) → Insights & Impact*  
 
 ---
