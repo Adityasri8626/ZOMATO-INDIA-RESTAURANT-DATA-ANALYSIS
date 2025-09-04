@@ -13,7 +13,9 @@ Analyzed **9,500+ restaurant records from Kaggle** using R to uncover customer p
 
 ## 📊 Dashboard & Visualization Preview  
 
-![Dashboard](assets/zomato_visuals.png)  
+![Dashboard](Images/P2.png)
+![Dashboard](Images/P3.png)
+
 *Key charts: Cuisine popularity, cost-rating scatter plots, city-wise restaurant trends*  
 
 ---
